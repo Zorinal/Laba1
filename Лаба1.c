@@ -68,7 +68,7 @@ int main() {
   int n;
   scanf("%d", n);
   int arr[100];
-  char line = ' ';fprintf(stderr,"text13");
+  char line = "";fprintf(stderr,"text13");
   for (int i = 0; line != "\n"; i++) {
     scanf("%d %c", & arr[i], & line);
   }fprintf(stderr,"text14");
